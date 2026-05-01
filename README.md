@@ -1,5 +1,5 @@
 # Blackjack-Game
-Blackjack Game in C
+Blackjack Game in C (due for an update)
 
 cards2.txt shuffles everytime a new game starts
 
